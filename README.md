@@ -1,4 +1,4 @@
-# Hi, I'm Christopher Ramm 👋
+# Hi, I'm Christopher Ramm
 
 **Enterprise architect. Indie builder.**
 
