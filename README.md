@@ -17,6 +17,8 @@ I lead digital customer experience strategy by day — advising C-level stakehol
 | **[Miasanrot](https://miasanrot.de)** | FC Bayern fan community — blog, podcast, forum | iOS (SwiftUI) · Android (Jetpack Compose) |
 |  **[bauchgut](https://bauchgut.app)**  | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS (SwiftUI, SwiftData) |
 | **ThermaSync** | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit |
+|  **[MilesLeft](https://milesleft.app)**  | MilesLeft tracks the wear and tear on your running shoes | iOS · HealthKit |
+
 
 ### What I talk about
 
