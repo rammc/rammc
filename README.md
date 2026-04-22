@@ -15,6 +15,7 @@ I lead digital customer experience strategy by day — advising C-level stakehol
 | App | What it does | Stack |
 |-----|-------------|-------|
 | **[Miasanrot](https://miasanrot.de)** | FC Bayern fan community — blog, podcast, forum | iOS (SwiftUI) · Android (Jetpack Compose) |
+|  **[kudamm'31](https://kudamm31.berlin)**  | A location-based audiowalk about the antisemitic pogrom on Kurfürstendamm (Berlin). | iOS (SwiftUI, SwiftData) · GPS Geofencing|
 |  **[bauchgut](https://bauchgut.app)**  | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS (SwiftUI, SwiftData) |
 | **ThermaSync** | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit |
 |  **[MilesLeft](https://milesleft.app)**  | MilesLeft tracks the wear and tear on your running shoes | iOS · HealthKit |
