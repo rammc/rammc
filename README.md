@@ -45,6 +45,28 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       <p>Open-source Salesforce <b>Data 360 credit consumption estimator</b> with AI-powered configuration. Single-file static app, deployable to any host.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>⚛️ <a href="https://github.com/rammc/sf-react-pipeline-kanban">sf-react-pipeline-kanban</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/sf-react-pipeline-kanban?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=111820" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=111820" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MIT-License-green?style=flat&labelColor=111820" alt="MIT License" />
+      </p>
+      <p><b>Sales Pipeline Kanban</b> built with React on Salesforce Multi-Framework (Beta). Teaching repo for LWC devs new to React — drag-and-drop, weighted forecast, inline edit.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/rammc/agentforce-grounding-demo">agentforce-grounding-demo</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/agentforce-grounding-demo?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Apex-1798c1?style=flat&labelColor=111820" alt="Apex" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=111820" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MIT-License-green?style=flat&labelColor=111820" alt="MIT License" />
+      </p>
+      <p>End-to-end comparison of two Agentforce grounding strategies — <b>Data Library vs. Hybrid Vector Search</b>. Eval harness, live-demo runbook, real architectural learnings.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/rammc/salesforce-agent-script">salesforce-agent-script</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/rammc/salesforce-agent-script?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
@@ -72,17 +94,6 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>OrgPulse</b> — Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚛️ <a href="https://github.com/rammc/ReactDemo">ReactDemo</a></h3>
-      <p>
-        <img src="https://img.shields.io/github/stars/rammc/ReactDemo?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=111820" alt="React" />
-      </p>
-      <p>React demo and exploration project.</p>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -120,7 +131,7 @@ Swift · SwiftUI · SwiftData · Kotlin · Jetpack Compose · watchOS · CoreBlu
 <details>
 <summary><b>Web & Tooling</b></summary>
 
-HTML · CSS · JavaScript · React · GitHub Pages · GitHub Actions · Claude Code · Mermaid
+HTML · CSS · JavaScript · TypeScript · React · GitHub Pages · GitHub Actions · Claude Code · Mermaid
 
 </details>
 
