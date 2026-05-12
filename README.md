@@ -24,7 +24,7 @@ By night, I build native apps that solve real problems with clean code, thoughtf
 | App | What it does | Stack | Status |
 |---|---|---|---|
 | [**Miasanrot**](https://miasanrot.de) | FC Bayern community — news, podcast, forum, match coverage | iOS · Android · SwiftUI · Jetpack Compose | 🟢 Live |
-| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit | 🟡 Coming Soon |
+| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit | 🟢 Live |
 | [**bauchgut**](https://bauchgut.app) | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS · SwiftUI · SwiftData | 🟡 Coming Soon |
 | [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
 | [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 Live |
