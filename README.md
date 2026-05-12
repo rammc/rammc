@@ -31,6 +31,53 @@ By night, I build native apps that solve real problems with clean code, thoughtf
 
 All apps share the same DNA: **native, privacy-first, offline-first, zero third-party trackers.**
 
+## Featured Repositories
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rammc/data360-credit-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=data360-credit-calculator&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="data360-credit-calculator" />
+      </a>
+      <br/>
+      <sub><i>Open-source Salesforce Data 360 credit consumption estimator with AI-powered configuration. Single-file static app, deployable to any host.</i></sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rammc/salesforce-agent-script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=salesforce-agent-script&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="salesforce-agent-script" />
+      </a>
+      <br/>
+      <sub><i>A Claude Skill that gives accurate, source-grounded knowledge of Salesforce Agentforce Agent Script syntax, patterns, and antipatterns.</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rammc/TDX-2026-Salesforce-DevOps-Multi-Org">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=TDX-2026-Salesforce-DevOps-Multi-Org&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="TDX-2026-Salesforce-DevOps-Multi-Org" />
+      </a>
+      <br/>
+      <sub><i>Companion repo for my TDX 2026 session on DevOps strategy for multi-org Salesforce — Package-Based and Repo-Driven delivery matrices.</i></sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rammc/orgpulse-dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=orgpulse-dev&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="orgpulse-dev" />
+      </a>
+      <br/>
+      <sub><i>OrgPulse — Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rammc/ReactDemo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=ReactDemo&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="ReactDemo" />
+      </a>
+      <br/>
+      <sub><i>React demo and exploration project.</i></sub>
+    </td>
+    <td valign="top" width="50%"></td>
+  </tr>
+</table>
+
 ## Speaking & Thought Leadership
 
 15+ sessions at Dreamforce, World Tour, DevOps Dreamin and community events since 2022.
@@ -65,7 +112,7 @@ Swift · SwiftUI · SwiftData · Kotlin · Jetpack Compose · watchOS · CoreBlu
 <details>
 <summary><b>Web & Tooling</b></summary>
 
-HTML · CSS · JavaScript · GitHub Pages · GitHub Actions · Claude Code · Mermaid
+HTML · CSS · JavaScript · React · GitHub Pages · GitHub Actions · Claude Code · Mermaid
 
 </details>
 
