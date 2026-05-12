@@ -87,9 +87,9 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       <p>Companion repo for my <b>TDX 2026 session</b> on DevOps strategy for multi-org Salesforce — Package-Based and Repo-Driven delivery matrices.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💓 <a href="https://github.com/rammc/orgpulse-dev">orgpulse-dev</a></h3>
+      <h3>💓 <a [href="https://github.com/rammc/orgpulse-dev](https://github.com/rammc/orgpulse)">orgpulse</a></h3>
       <p>
-        <img src="https://img.shields.io/github/stars/rammc/orgpulse-dev?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/rammc/orgpulse?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&labelColor=111820" alt="JavaScript" />
       </p>
       <p><b>OrgPulse</b> — Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</p>
