@@ -35,46 +35,54 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rammc/data360-credit-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=data360-credit-calculator&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="data360-credit-calculator" />
-      </a>
-      <br/>
-      <sub><i>Open-source Salesforce Data 360 credit consumption estimator with AI-powered configuration. Single-file static app, deployable to any host.</i></sub>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/rammc/data360-credit-calculator">data360-credit-calculator</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/data360-credit-calculator?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/HTML-orange?style=flat&labelColor=111820" alt="HTML" />
+        <img src="https://img.shields.io/badge/MIT-License-green?style=flat&labelColor=111820" alt="MIT License" />
+      </p>
+      <p>Open-source Salesforce <b>Data 360 credit consumption estimator</b> with AI-powered configuration. Single-file static app, deployable to any host.</p>
     </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rammc/salesforce-agent-script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=salesforce-agent-script&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="salesforce-agent-script" />
-      </a>
-      <br/>
-      <sub><i>A Claude Skill that gives accurate, source-grounded knowledge of Salesforce Agentforce Agent Script syntax, patterns, and antipatterns.</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rammc/TDX-2026-Salesforce-DevOps-Multi-Org">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=TDX-2026-Salesforce-DevOps-Multi-Org&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="TDX-2026-Salesforce-DevOps-Multi-Org" />
-      </a>
-      <br/>
-      <sub><i>Companion repo for my TDX 2026 session on DevOps strategy for multi-org Salesforce — Package-Based and Repo-Driven delivery matrices.</i></sub>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rammc/orgpulse-dev">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=orgpulse-dev&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="orgpulse-dev" />
-      </a>
-      <br/>
-      <sub><i>OrgPulse — Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</i></sub>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/rammc/salesforce-agent-script">salesforce-agent-script</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/salesforce-agent-script?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Claude-Skill-4A9EE5?style=flat&labelColor=111820" alt="Claude Skill" />
+        <img src="https://img.shields.io/badge/MIT-License-green?style=flat&labelColor=111820" alt="MIT License" />
+      </p>
+      <p>A <b>Claude Skill</b> with accurate, source-grounded knowledge of Salesforce Agentforce Agent Script — syntax, patterns, antipatterns.</p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rammc/ReactDemo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rammc&repo=ReactDemo&theme=transparent&title_color=4A9EE5&text_color=E8ECF2&icon_color=4A9EE5&border_color=8899AA33" alt="ReactDemo" />
-      </a>
-      <br/>
-      <sub><i>React demo and exploration project.</i></sub>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/rammc/TDX-2026-Salesforce-DevOps-Multi-Org">TDX-2026-Salesforce-DevOps-Multi-Org</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/TDX-2026-Salesforce-DevOps-Multi-Org?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Apex-1798c1?style=flat&labelColor=111820" alt="Apex" />
+        <img src="https://img.shields.io/badge/TDX_2026-orange?style=flat&labelColor=111820" alt="TDX 2026" />
+      </p>
+      <p>Companion repo for my <b>TDX 2026 session</b> on DevOps strategy for multi-org Salesforce — Package-Based and Repo-Driven delivery matrices.</p>
     </td>
-    <td valign="top" width="50%"></td>
+    <td width="50%" valign="top">
+      <h3>💓 <a href="https://github.com/rammc/orgpulse-dev">orgpulse-dev</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/orgpulse-dev?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&labelColor=111820" alt="JavaScript" />
+      </p>
+      <p><b>OrgPulse</b> — Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ <a href="https://github.com/rammc/ReactDemo">ReactDemo</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/ReactDemo?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=111820" alt="React" />
+      </p>
+      <p>React demo and exploration project.</p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
