@@ -28,6 +28,7 @@ By night, I build native apps that solve real problems with clean code, thoughtf
 | [**bauchgut**](https://bauchgut.app) | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS · SwiftUI · SwiftData | 🟡 Coming Soon |
 | [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
 | [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 Live |
+| [**actari**](https://github.com/rammc/actari) | Local research companion for the U.S. National Archives Catalog — bulk-download record series as PDF, optional OCR, local library. Not affiliated with NARA. | macOS · Python · FastAPI · PyInstaller | 🟢 Live |
 
 All apps share the same DNA: **native, privacy-first, offline-first, zero third-party trackers.**
 
