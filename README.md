@@ -135,24 +135,6 @@ Swift · SwiftUI · SwiftData · Kotlin · Jetpack Compose · watchOS · CoreBlu
 HTML · CSS · JavaScript · TypeScript · React · GitHub Pages · GitHub Actions · Claude Code · Mermaid
 
 </details>
-
-## Two worlds, one mindset
-
-```mermaid
-graph LR
-    A[Enterprise Architecture] --> C{Same mindset:<br/>solve real problems<br/>with clean code}
-    B[Indie Apps] --> C
-    C --> D[Clarity]
-    C --> E[Pragmatism]
-    C --> F[Privacy-first]
-    style C fill:#4A9EE5,stroke:#4A9EE5,color:#fff
-    style A fill:#111820,stroke:#4A9EE5,color:#E8ECF2
-    style B fill:#111820,stroke:#4A9EE5,color:#E8ECF2
-    style D fill:#111820,stroke:#4A9EE5,color:#E8ECF2
-    style E fill:#111820,stroke:#4A9EE5,color:#E8ECF2
-    style F fill:#111820,stroke:#4A9EE5,color:#E8ECF2
-```
-
 ---
 
 <div align="center">
