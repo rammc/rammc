@@ -6,7 +6,7 @@
 
 DCX CTO Germany @ Capgemini &nbsp;·&nbsp; Salesforce CTA &nbsp;·&nbsp; Salesforce MVP '25 & '26
 
-[**cramm.dev**](https://cramm.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cramm/) &nbsp;·&nbsp; [Speaking](https://cramm.dev/speaking.html)
+[**cramm.dev**](https://cramm.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cramm/) &nbsp;·&nbsp; [Medium](https://medium.com/@christopherramm) &nbsp;·&nbsp; [Speaking](https://cramm.dev/speaking.html)
 
 </div>
 
@@ -23,11 +23,11 @@ By night, I build native apps that solve real problems with clean code, thoughtf
 
 | App | What it does | Stack | Status |
 |---|---|---|---|
-| [**Miasanrot**](https://miasanrot.de) | FC Bayern community — news, podcast, forum, match coverage | iOS · Android · SwiftUI · Jetpack Compose | 🟢 Live |
-| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit | 🟢 Live |
+| [**Miasanrot**](https://miasanrot.de) | FC Bayern community — news, podcast, forum, match coverage | iOS · Android · SwiftUI · Jetpack Compose | 🟢 [Live](https://apps.apple.com/de/app/miasanrot/id6759221036) |
+| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit | 🟢 [Live](https://apps.apple.com/de/app/milesleft/id6762114340) |
 | [**bauchgut**](https://bauchgut.app) | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS · SwiftUI · SwiftData | 🟡 Coming Soon |
 | [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
-| [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 Live |
+| [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 [Live](https://apps.apple.com/de/app/kudamm31/id6761732329) |
 | [**actari**](https://github.com/rammc/actari) | Local research companion for the U.S. National Archives Catalog — bulk-download record series as PDF, optional OCR, local library. Not affiliated with NARA. | macOS · Python · FastAPI · PyInstaller | 🟢 Live |
 
 All apps share the same DNA: **native, privacy-first, offline-first, zero third-party trackers.**
@@ -117,12 +117,14 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 
 Regular contributor to [Capgemini Salesforce Architects](https://medium.com/capgemini-salesforce-architects) on Medium.
 
-**Recent articles:**
-- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130) — AI agents + UTAM for E2E testing
-- [When should Salesforce architects reach for React?](https://medium.com/capgemini-salesforce-architects/when-should-salesforce-architects-reach-for-react-three-patterns-from-the-multi-framework-beta-b31e98beb6a5) — Three patterns from the Multi-Framework beta
-- [I Built a Custom Vector Search to Beat Salesforce Data Library](https://medium.com/capgemini-salesforce-architects/i-built-a-custom-vector-search-to-beat-salesforce-data-library-dc0dbd335576) — Agentforce grounding, benchmarked
-- [When Scale Center Tells You What's Wrong, But Not What To Do](https://medium.com/capgemini-salesforce-architects/when-scale-center-tells-you-whats-wrong-but-not-what-to-do-9cd3417637fb) — From signals to an actionable plan
-- [Why We Built an Open-Source Data 360 Credit Calculator](https://medium.com/capgemini-salesforce-architects/why-we-built-an-open-source-data-360-credit-calculator-7388a97adb39) — The story behind the repo
+**Recent articles** (auto-updated daily):
+<!-- BLOG-POST-LIST:START -->
+- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130)
+- [When should Salesforce architects reach for React? Three patterns from the Multi-Framework beta](https://medium.com/capgemini-salesforce-architects/when-should-salesforce-architects-reach-for-react-three-patterns-from-the-multi-framework-beta-b31e98beb6a5)
+- [I Built a Custom Vector Search to Beat Salesforce Data Library](https://medium.com/capgemini-salesforce-architects/i-built-a-custom-vector-search-to-beat-salesforce-data-library-dc0dbd335576)
+- [When Scale Center Tells You What's Wrong, But Not What To Do](https://medium.com/capgemini-salesforce-architects/when-scale-center-tells-you-whats-wrong-but-not-what-to-do-9cd3417637fb)
+- [Why We Built an Open-Source Data 360 Credit Calculator](https://medium.com/capgemini-salesforce-architects/why-we-built-an-open-source-data-360-credit-calculator-7388a97adb39)
+<!-- BLOG-POST-LIST:END -->
 
 → Full list at [cramm.dev/speaking](https://cramm.dev/speaking.html#writing)
 
@@ -155,6 +157,8 @@ HTML · CSS · JavaScript · TypeScript · React · GitHub Pages · GitHub Actio
 ---
 
 <div align="center">
+
+💬 **Open to speaking engagements & CTA mentoring** — reach me on [LinkedIn](https://www.linkedin.com/in/cramm/)
 
 📍 Berlin &nbsp;·&nbsp; 🏃 Runner &nbsp;·&nbsp; 🚴 Cyclist &nbsp;·&nbsp; ⚽ FC Bayern since forever
 
