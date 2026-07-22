@@ -4,7 +4,7 @@
 
 ### Enterprise architect. Indie builder.
 
-DCX CTO Germany @ Capgemini &nbsp;·&nbsp; Salesforce CTA &nbsp;·&nbsp; Salesforce MVP '25
+DCX CTO Germany @ Capgemini &nbsp;·&nbsp; Salesforce CTA &nbsp;·&nbsp; Salesforce MVP '25 & '26
 
 [**cramm.dev**](https://cramm.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cramm/) &nbsp;·&nbsp; [Speaking](https://cramm.dev/speaking.html)
 
@@ -17,7 +17,7 @@ By day, I lead digital customer experience strategy as DCX CTO Germany at Capgem
 By night, I build native apps that solve real problems with clean code, thoughtful UX, and zero compromises on privacy.
 
 > [!NOTE]
-> **Currently shipping:** MilesLeft (App Store submission in progress) · bauchgut (pre-release audit) · ThermaSync (watchOS app + iOS companion)
+> **Currently shipping:** bauchgut (pre-release audit) · ThermaSync (watchOS app + iOS companion) &nbsp;—&nbsp; **Next up:** Governing AI at Enterprise Scale @ Dreamforce 2026
 
 ## Apps
 
@@ -88,7 +88,7 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       <p>Companion repo for my <b>TDX 2026 session</b> on DevOps strategy for multi-org Salesforce — Package-Based and Repo-Driven delivery matrices.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💓 <a [href="https://github.com/rammc/orgpulse-dev](https://github.com/rammc/orgpulse)">orgpulse</a></h3>
+      <h3>💓 <a href="https://github.com/rammc/orgpulse">orgpulse</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/rammc/orgpulse?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&labelColor=111820" alt="JavaScript" />
@@ -100,14 +100,31 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 
 ## Speaking & Thought Leadership
 
-15+ sessions at Dreamforce, World Tour, DevOps Dreamin and community events since 2022.
+20+ sessions & interviews at Dreamforce, TDX, World Tour, DevOps Dreamin and community events since 2022.
+
+**Upcoming:**
+- **Governing AI at Enterprise Scale** — Dreamforce 2026
 
 **Recent highlights:**
-- **Overcoming Agentforce Antipatterns with the Right Data Management** — Odaseva Forum 2025
-- **5 Case Studies: Real-World Wins with Well-Architected** — Dreamforce 2024
-- **Architect's Approach to Governance** — Dreamforce 2023
+- **Automate UI Testing with AI and UTAM** — Apex Hours 2026 · [repo](https://github.com/svierk/salesforce-utam-e2e-testing)
+- **Drawing the Unseen: How to Diagram AI in Your Salesforce Architecture** — Architect Dreamin' Helsinki 2026 · [repo](https://github.com/rammc/drawing-the-unseen)
+- **Multi-Org Data Sync at Scale** — TDX 2026 · [repo](https://github.com/rammc/TDX-2026-Salesforce-DevOps-Multi-Org)
+- **Overcoming Agentforce Antipatterns** — Odaseva Data Innovation Forum 2025 · [video](https://m.youtube.com/watch?v=e3gza8CW_t0)
 
 → Full list at [cramm.dev/speaking](https://cramm.dev/speaking.html)
+
+## Writing
+
+Regular contributor to [Capgemini Salesforce Architects](https://medium.com/capgemini-salesforce-architects) on Medium.
+
+**Recent articles:**
+- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130) — AI agents + UTAM for E2E testing
+- [When should Salesforce architects reach for React?](https://medium.com/capgemini-salesforce-architects/when-should-salesforce-architects-reach-for-react-three-patterns-from-the-multi-framework-beta-b31e98beb6a5) — Three patterns from the Multi-Framework beta
+- [I Built a Custom Vector Search to Beat Salesforce Data Library](https://medium.com/capgemini-salesforce-architects/i-built-a-custom-vector-search-to-beat-salesforce-data-library-dc0dbd335576) — Agentforce grounding, benchmarked
+- [When Scale Center Tells You What's Wrong, But Not What To Do](https://medium.com/capgemini-salesforce-architects/when-scale-center-tells-you-whats-wrong-but-not-what-to-do-9cd3417637fb) — From signals to an actionable plan
+- [Why We Built an Open-Source Data 360 Credit Calculator](https://medium.com/capgemini-salesforce-architects/why-we-built-an-open-source-data-360-credit-calculator-7388a97adb39) — The story behind the repo
+
+→ Full list at [cramm.dev/speaking](https://cramm.dev/speaking.html#writing)
 
 ## Architect Community
 
