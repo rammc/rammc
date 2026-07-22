@@ -16,17 +16,19 @@ By day, I lead digital customer experience strategy as DCX CTO Germany at Capgem
 
 By night, I build native apps that solve real problems with clean code, thoughtful UX, and zero compromises on privacy.
 
+In between, you'll find me in the Salesforce architect community — speaking at Dreamforce, TDX and community events, writing for Capgemini Salesforce Architects on Medium, and coaching architects on their path to CTA certification. Both worlds feed each other: enterprise-grade architectural rigor goes into every app I ship, and hands-on product engineering keeps my architecture advice grounded in reality.
+
 🎤 *Next up: **Governing AI at Enterprise Scale** @ Dreamforce 2026*
 
 ## Apps
 
 | App | What it does | Stack | Status |
 |---|---|---|---|
-| [**Miasanrot**](https://miasanrot.de) | FC Bayern community — news, podcast, forum, match coverage | iOS · Android · SwiftUI · Jetpack Compose | 🟢 [Live](https://apps.apple.com/de/app/miasanrot/id6759221036) |
-| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit | 🟢 [Live](https://apps.apple.com/de/app/milesleft/id6762114340) |
+| [**Miasanrot**](https://miasanrot.de) | FC Bayern community — news, live ticker, podcast, forum, AI-powered reading recommendations | iOS · watchOS · Android · SwiftUI · Jetpack Compose | 🟢 [Live](https://apps.apple.com/de/app/miasanrot/id6759221036) · Android beta |
+| [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit · Swift Charts | 🟢 [Live](https://apps.apple.com/de/app/milesleft/id6762114340) |
 | [**bauchgut**](https://bauchgut.app) | Food intolerance companion — 900+ foods, barcode scanner, OCR | iOS · SwiftUI · SwiftData | 🟡 Coming Soon |
-| [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion for heat training | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
-| [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 [Live](https://apps.apple.com/de/app/kudamm31/id6761732329) |
+| [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion — live core temp, heat zones, HealthKit workout merge | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
+| [**kudamm'31**](https://kudamm31.berlin) | Location-based audiowalk about the antisemitic pogrom on Berlin's Kurfürstendamm — 40 stations, eyewitness accounts, historic map time-layer | iOS · SwiftUI · SwiftData · GPS Geofencing | 🟢 [Live](https://apps.apple.com/de/app/kudamm31/id6761732329) |
 | [**actari**](https://github.com/rammc/actari) | Local research companion for the U.S. National Archives Catalog — bulk-download record series as PDF, optional OCR, local library. Not affiliated with NARA. | macOS · Python · FastAPI · PyInstaller | 🟢 Live |
 
 All apps share the same DNA: **native, privacy-first, offline-first, zero third-party trackers.**
