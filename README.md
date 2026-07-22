@@ -117,6 +117,18 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       <p><b>MCP server</b> that exposes OpenAI image generation as tools for Claude Code and Claude Desktop.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/rammc/cap-de-mfg-awt-demo">cap-de-mfg-awt-demo</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/cap-de-mfg-awt-demo?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Apex-1798c1?style=flat&labelColor=111820" alt="Apex" />
+        <img src="https://img.shields.io/badge/Manufacturing_Cloud-orange?style=flat&labelColor=111820" alt="Manufacturing Cloud" />
+      </p>
+      <p><b>VerdantBot</b>: Manufacturing Cloud field-service demo built for Agentforce World Tour Frankfurt. Components kept generic for reuse in other demos.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Speaking & Thought Leadership
