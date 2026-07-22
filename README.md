@@ -97,6 +97,26 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       <p><b>OrgPulse</b>: Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/rammc/sf-quality-search-lwc">sf-quality-search-lwc</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/sf-quality-search-lwc?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/LWC-00a1e0?style=flat&labelColor=111820" alt="LWC" />
+        <img src="https://img.shields.io/badge/Apex-1798c1?style=flat&labelColor=111820" alt="Apex" />
+      </p>
+      <p><b>High-confidence customer lookup LWC</b> that bypasses record-level sharing in a controlled way: audit logging and test coverage included.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/rammc/openai-image-mcp">openai-image-mcp</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/openai-image-mcp?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white&labelColor=111820" alt="Python" />
+        <img src="https://img.shields.io/badge/MCP-server-4A9EE5?style=flat&labelColor=111820" alt="MCP" />
+      </p>
+      <p><b>MCP server</b> that exposes OpenAI image generation as tools for Claude Code and Claude Desktop.</p>
+    </td>
+  </tr>
 </table>
 
 ## Speaking & Thought Leadership
