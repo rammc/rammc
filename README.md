@@ -16,8 +16,7 @@ By day, I lead digital customer experience strategy as DCX CTO Germany at Capgem
 
 By night, I build native apps that solve real problems with clean code, thoughtful UX, and zero compromises on privacy.
 
-> [!NOTE]
-> **Currently shipping:** bauchgut (pre-release audit) · ThermaSync (watchOS app + iOS companion) &nbsp;—&nbsp; **Next up:** Governing AI at Enterprise Scale @ Dreamforce 2026
+🎤 *Next up: **Governing AI at Enterprise Scale** @ Dreamforce 2026*
 
 ## Apps
 
