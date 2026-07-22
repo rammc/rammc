@@ -118,12 +118,11 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 Regular contributor to [Capgemini Salesforce Architects](https://medium.com/capgemini-salesforce-architects) on Medium.
 
 **Recent articles** (auto-updated daily):
-<!-- BLOG-POST-LIST:START -->
-- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130)
-- [When should Salesforce architects reach for React? Three patterns from the Multi-Framework beta](https://medium.com/capgemini-salesforce-architects/when-should-salesforce-architects-reach-for-react-three-patterns-from-the-multi-framework-beta-b31e98beb6a5)
-- [I Built a Custom Vector Search to Beat Salesforce Data Library](https://medium.com/capgemini-salesforce-architects/i-built-a-custom-vector-search-to-beat-salesforce-data-library-dc0dbd335576)
-- [When Scale Center Tells You What's Wrong, But Not What To Do](https://medium.com/capgemini-salesforce-architects/when-scale-center-tells-you-whats-wrong-but-not-what-to-do-9cd3417637fb)
-- [Why We Built an Open-Source Data 360 Credit Calculator](https://medium.com/capgemini-salesforce-architects/why-we-built-an-open-source-data-360-credit-calculator-7388a97adb39)
+<!-- BLOG-POST-LIST:START -->- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130?source=rss-80d5df018693------2)
+- [When should Salesforce architects reach for React? Three patterns from the Multi-Framework beta](https://medium.com/capgemini-salesforce-architects/when-should-salesforce-architects-reach-for-react-three-patterns-from-the-multi-framework-beta-b31e98beb6a5?source=rss-80d5df018693------2)
+- [I Built a Custom Vector Search to Beat Salesforce Data Library.](https://medium.com/capgemini-salesforce-architects/i-built-a-custom-vector-search-to-beat-salesforce-data-library-dc0dbd335576?source=rss-80d5df018693------2)
+- [When Scale Center Tells You What’s Wrong, But Not What To Do](https://medium.com/capgemini-salesforce-architects/when-scale-center-tells-you-whats-wrong-but-not-what-to-do-9cd3417637fb?source=rss-80d5df018693------2)
+- [Why We Built an Open-Source Data 360 Credit Calculator](https://medium.com/capgemini-salesforce-architects/why-we-built-an-open-source-data-360-credit-calculator-7388a97adb39?source=rss-80d5df018693------2)
 <!-- BLOG-POST-LIST:END -->
 
 → Full list at [cramm.dev/speaking](https://cramm.dev/speaking.html#writing)
