@@ -127,7 +127,16 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>VerdantBot</b>: Manufacturing Cloud field-service demo built for Agentforce World Tour Frankfurt. Components kept generic for reuse in other demos.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>👑 <a href="https://github.com/rammc/segment-hunter">segment-hunter</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/segment-hunter?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=111820" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=111820" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white&labelColor=111820" alt="Cloudflare Workers" />
+      </p>
+      <p><b>Strava KOM hunter</b>: scores segments against your own power curve to show where an attack is realistic. AI tactics &amp; training plans, bilingual UI (DE/EN). React on GitHub Pages, Cloudflare Worker as Strava proxy.</p>
+    </td>
   </tr>
 </table>
 
