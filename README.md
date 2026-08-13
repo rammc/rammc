@@ -24,7 +24,7 @@ In between, you'll find me in the Salesforce architect community: speaking at Dr
 
 | App | What it does | Stack | Status |
 |---|---|---|---|
-| [**Miasanrot**](https://miasanrot.de) | FC Bayern community: news, live ticker, podcast, forum, AI-powered reading recommendations | iOS · watchOS · Android · SwiftUI · Jetpack Compose | 🟢 [Live](https://apps.apple.com/de/app/miasanrot/id6759221036) · Android 🟢 [Live](https://play.google.com/store/apps/details?id=de.miasanrot.app) |
+| [**Miasanrot**](https://miasanrot.de) | FC Bayern community: news, live ticker, podcast, forum, AI-powered reading recommendations | iOS · watchOS · Android · SwiftUI · Jetpack Compose | 🟢 [Live] iOS (https://apps.apple.com/de/app/miasanrot/id6759221036) · Android (https://play.google.com/store/apps/details?id=de.miasanrot.app) |
 | [**MilesLeft**](https://milesleft.app) | Running shoe wear tracker with biomechanical load algorithm | iOS · SwiftUI · SwiftData · HealthKit · Swift Charts | 🟢 [Live](https://apps.apple.com/de/app/milesleft/id6762114340) |
 | [**bauchgut**](https://bauchgut.app) | Food intolerance companion: 900+ foods, barcode scanner, OCR | iOS · SwiftUI · SwiftData | 🟡 Coming Soon |
 | [**ThermaSync**](https://cramm.dev#apps) | CORE 2 thermal sensor companion: live core temp, heat zones, HealthKit workout merge | watchOS · iOS · BLE · HealthKit | 🟡 Coming Soon |
