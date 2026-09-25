@@ -142,7 +142,7 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 
 ## Speaking & Thought Leadership
 
-20+ sessions & interviews at Dreamforce, TDX, World Tour, DevOps Dreamin and community events since 2022.
+25+ sessions & interviews at Dreamforce, TDX, World Tour, DevOps Dreamin and community events since 2022.
 
 **Upcoming:**
 - **Governing AI at Enterprise Scale** · Dreamforce 2026
