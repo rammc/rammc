@@ -38,6 +38,16 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/rammc/vault-cockpit">vault-cockpit</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/rammc/vault-cockpit?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
+        <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white&labelColor=111820" alt="Python" />
+        <img src="https://img.shields.io/badge/Claude_Code-Skill-4A9EE5?style=flat&labelColor=111820" alt="Claude Code Skill" />
+        <img src="https://img.shields.io/badge/MIT-License-green?style=flat&labelColor=111820" alt="MIT License" />
+      </p>
+      <p>Local <b>cockpit for the open questions and decisions</b> of an LLM-maintained wiki (Obsidian, Karpathy pattern). You answer and decide, Claude Code works the answers in. Checked transactions, sealed decision register, zero dependencies. <a href="https://medium.com/@christopherramm/my-second-brain-has-a-cockpit-now-claude-does-the-driving-865bc6f4144b">Article</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/rammc/data360-credit-calculator">data360-credit-calculator</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/rammc/data360-credit-calculator?style=flat&logo=github&logoColor=white&color=4A9EE5&labelColor=111820" alt="Stars" />
@@ -46,6 +56,8 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p>Open-source Salesforce <b>Data 360 credit consumption estimator</b> with AI-powered configuration. Single-file static app, deployable to any host.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚛️ <a href="https://github.com/rammc/sf-react-pipeline-kanban">sf-react-pipeline-kanban</a></h3>
       <p>
@@ -56,8 +68,6 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>Sales Pipeline Kanban</b> built with React on Salesforce Multi-Framework (Beta). Teaching repo for LWC devs new to React: drag-and-drop, weighted forecast, inline edit.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/rammc/agentforce-grounding-demo">agentforce-grounding-demo</a></h3>
       <p>
@@ -68,6 +78,8 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p>End-to-end comparison of two Agentforce grounding strategies: <b>Data Library vs. Hybrid Vector Search</b>. Eval harness, live-demo runbook, real architectural learnings.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/rammc/salesforce-agent-script">salesforce-agent-script</a></h3>
       <p>
@@ -77,8 +89,6 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p>A <b>Claude Skill</b> with accurate, source-grounded knowledge of Salesforce Agentforce Agent Script: syntax, patterns, antipatterns.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/rammc/TDX-2026-Salesforce-DevOps-Multi-Org">TDX-2026-Salesforce-DevOps-Multi-Org</a></h3>
       <p>
@@ -88,6 +98,8 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p>Companion repo for my <b>TDX 2026 session</b> on DevOps strategy for multi-org Salesforce: Package-Based and Repo-Driven delivery matrices.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💓 <a href="https://github.com/rammc/orgpulse">orgpulse</a></h3>
       <p>
@@ -96,8 +108,6 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>OrgPulse</b>: Salesforce org performance analysis tool. Signal mapping, recommendations engine, and architectural assessments.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/rammc/sf-quality-search-lwc">sf-quality-search-lwc</a></h3>
       <p>
@@ -107,6 +117,8 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>High-confidence customer lookup LWC</b> that bypasses record-level sharing in a controlled way: audit logging and test coverage included.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🖼️ <a href="https://github.com/rammc/openai-image-mcp">openai-image-mcp</a></h3>
       <p>
@@ -116,8 +128,6 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>MCP server</b> that exposes OpenAI image generation as tools for Claude Code and Claude Desktop.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/rammc/cap-de-mfg-awt-demo">cap-de-mfg-awt-demo</a></h3>
       <p>
@@ -127,6 +137,8 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>VerdantBot</b>: Manufacturing Cloud field-service demo built for Agentforce World Tour Frankfurt. Components kept generic for reuse in other demos.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>👑 <a href="https://github.com/rammc/segment-hunter">segment-hunter</a></h3>
       <p>
@@ -137,6 +149,7 @@ All apps share the same DNA: **native, privacy-first, offline-first, zero third-
       </p>
       <p><b>Strava KOM hunter</b>: scores segments against your own power curve to show where an attack is realistic. AI tactics &amp; training plans, bilingual UI (DE/EN). React on GitHub Pages, Cloudflare Worker as Strava proxy.</p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
