@@ -174,11 +174,11 @@ Regular contributor to [Capgemini Salesforce Architects](https://medium.com/capg
 
 **Recent articles** (auto-updated daily):
 <!-- BLOG-POST-LIST:START -->
+- [My Second Brain Has a Cockpit Now. Claude Does the Driving.](https://medium.com/@christopherramm/my-second-brain-has-a-cockpit-now-claude-does-the-driving-865bc6f4144b?source=rss-80d5df018693------2)
 - [The Salesforce CoE in 2026: What Changes in the Age of AI](https://medium.com/capgemini-salesforce-architects/the-salesforce-coe-in-2026-what-changes-in-the-age-of-ai-20ea565854b1?source=rss-80d5df018693------2)
 - [I Stopped Taking Notes. Claude Code Now Maintains My Second Brain.](https://medium.com/@christopherramm/i-stopped-taking-notes-claude-code-now-maintains-my-second-brain-4a74f7c3ab05?source=rss-80d5df018693------2)
 - [One Server Poll: How a Fan App Follows a Live Match Without Burning Its API Budget](https://medium.com/@christopherramm/one-server-poll-how-a-fan-app-follows-a-live-match-without-burning-its-api-budget-6c44d7bdf22a?source=rss-80d5df018693------2)
-- [Claudeforce: How to get the most of the Claude and Salesforce Connector](https://medium.com/capgemini-salesforce-architects/claudeforce-how-to-get-the-most-of-the-claude-and-salesforce-connector-abc3afa49264?source=rss-80d5df018693------2)
-- [From a Jira Ticket to a Running Salesforce UI Test, Written by an AI](https://medium.com/capgemini-salesforce-architects/from-a-jira-ticket-to-a-running-salesforce-ui-test-written-by-an-ai-f18be3108130?source=rss-80d5df018693------2)<!-- BLOG-POST-LIST:END -->
+- [Claudeforce: How to get the most of the Claude and Salesforce Connector](https://medium.com/capgemini-salesforce-architects/claudeforce-how-to-get-the-most-of-the-claude-and-salesforce-connector-abc3afa49264?source=rss-80d5df018693------2)<!-- BLOG-POST-LIST:END -->
 
 → Full list at [cramm.dev/speaking](https://cramm.dev/speaking.html#writing)
 
